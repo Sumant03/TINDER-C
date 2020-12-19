@@ -1,0 +1,11 @@
+
+.header{
+    display:flex;
+    justify-content: space-between;
+    z-index: 100;
+    border: bottom 1px solid #f9f9f9;
+    margin-top:40px;
+}
+.header2{
+    height:40px;
+}
